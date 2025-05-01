@@ -157,4 +157,3 @@ The program includes proper error handling and usage messages for:
 - File operations
 - Color specifications
 - Banner selection
-- Terminal size limitations
