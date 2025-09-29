@@ -1,4 +1,4 @@
-# String To Ascii Art  - A Go Learning Journey
+# String To Ascii Art
 
 A Go program that converts strings into ASCII art with various styling options and features.
 
